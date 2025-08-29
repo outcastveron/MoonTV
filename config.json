@@ -94,15 +94,17 @@
     },
     "xinlangaa": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "name": "新浪资源阿"
+      "name": "新浪资源"
     },
-    "youzhidianying": {
-      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
-      "name": "优质资源库"
+    "subocaiji": {
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "name": "速播采集",
+      "detail": "https://subocaiji.com"
     },
-    "yingshigongchang": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "name": "影视工厂"
+    "shenmayun": {
+      "name": "神马云",
+      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "detail": "https://api.1080zyku.com"
     },
     "niuniudb": {
       "name": "牛牛点播",
