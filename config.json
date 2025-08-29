@@ -80,25 +80,17 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "fengchao": {
-      "api": "https://api.fczy888.me/api.php/provide/vod",
-      "name": "蜂巢片库"
+    "hongniuziyuan": {
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "name": "红牛资源"
     },
-    "jinmaziyuan2": {
-      "api": "https://api.jmzy.com/api.php/provide/vod",
-      "name": "金马资源网"
+    "suonisandian": {
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "name": "索尼-闪电资源"
     },
-    "dadiziy": {
-      "api": "https://dadiapi.com/api.php/provide/vod",
-      "name": "大地资源网络"
-    },
-    "xiaojiziy": {
-      "api": "https://api.xiaojizy.live/provide/vod",
-      "name": "小鸡资源"
-    },
-    "kauicheziyuan": {
-      "api": "https://caiji.kuaichezy.org/api.php/provide",
-      "name": "快车资源阿"
+    "yayaziyuan": {
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "name": "鸭鸭资源"
     },
     "xinlangaa": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -108,17 +100,14 @@
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库"
     },
-    "qiqiqiqi": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
-    },
     "yingshigongchang": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
     },
-    "fantuanyingshi": {
-      "api": "https://www.fantuan.tv/api.php/provide/vod/",
-      "name": "饭团影视"
+    "niuniudb": {
+      "name": "牛牛点播",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "detail": "https://api.niuniuzy.me"
     }
   }
 }
